@@ -1,6 +1,7 @@
 package com.testapp.staticinitializer;
 
-public class SomeStaticInitializer {
+
+public abstract class SomeAbstractStaticInitializer {
 
     static CoolConfiguration config;
 
